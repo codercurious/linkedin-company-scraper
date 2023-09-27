@@ -1,3 +1,5 @@
+# Linkedin company scraper
+Interested in using this scraper? Get it here: [Linkedin company scraper](https://apify.com/curious_coder/linkedin-company-scraper)
 Scrape linkedin companies and extract complete information in bulk
 
 ## Features
