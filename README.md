@@ -1,5 +1,5 @@
 # Linkedin company scraper
-Interested in using this scraper? Get it here: [Linkedin company scraper](https://apify.com/curious_coder/linkedin-company-scraper)
+Interested in using this scraper? Get it here: [Linkedin company scraper](https://apify.com/curious_coder/linkedin-company-scraper?fpr=ve081&fp_sid=github_linkedin-company-scraper)
 Scrape linkedin companies and extract complete information in bulk
 
 ## Features
@@ -20,7 +20,12 @@ Click on the extension and export the linkedin cookies
 
 Paste the cookies into this actor's `Linkedin cookie` input field
 
-✳️ **You might be interested in:**  [Crunchbase scraper](https://apify.com/curious_coder/crunchbase-scraper) | [Clutch companies scraper](https://apify.com/curious_coder/clutch-scraper) | [Linkedin reactions scraper](https://apify.com/curious_coder/linkedin-post-reactions-scraper) | [Linkedin post scraper](https://apify.com/curious_coder/linkedin-post-search-scraper) | [Other useful scrapers](https://apify.com/curious_coder)
+✳️ **You might be interested in:**  [Crunchbase scraper](https://apify.com/curious_coder/crunchbase-scraper?fpr=ve081&fp_sid=github_linkedin-company-scraper) | [Clutch companies scraper](https://apify.com/curious_coder/clutch-scraper?fpr=ve081&fp_sid=github_linkedin-company-scraper) | [Linkedin reactions scraper](https://apify.com/curious_coder/linkedin-post-reactions-scraper?fpr=ve081&fp_sid=github_linkedin-company-scraper) | [Linkedin post scraper](https://apify.com/curious_coder/linkedin-post-search-scraper?fpr=ve081&fp_sid=github_linkedin-company-scraper) | [Other useful scrapers](https://apify.com/curious_coder?fpr=ve081&fp_sid=github_linkedin-company-scraper)
+
+
+## Integrations
+You can use [Make](https://www.make.com/en/register?pc=growthhack) to integrate linkedin company scraper to any other SaaS platform by designing your own automation flows.
+
 
 Here is the sample output of this actor:
 
